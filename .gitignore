@@ -1,0 +1,5 @@
+# Removing the node modules
+/node_modules
+
+# This would be to ignore all .env files
+.env
